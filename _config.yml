@@ -24,7 +24,7 @@ subtitle: "be the only one" # site tagline that appears below site title in mast
 name: "minkk"
 description: "An amazing website."
 url: "https://only-minkk.github.io"
-baseurl: "/blog" # the subpath of your site, e.g. "/blog"
+baseurl: # the subpath of your site, e.g. "/blog"
 repository: "only-minkk/only-minkk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/2(1).png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
