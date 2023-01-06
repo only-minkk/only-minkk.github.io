@@ -26,7 +26,7 @@ description: "An amazing website."
 url: "https://only-minkk.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "only-minkk/only-minkk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: #"/assets/images/sakura.gif" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/2(1).png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "BTOO" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -62,7 +62,7 @@ atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
 search: true # true, false (default)
-search_full_content: # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia, google
 lunr:
   search_within_pages: # true, false (default)
@@ -279,6 +279,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
