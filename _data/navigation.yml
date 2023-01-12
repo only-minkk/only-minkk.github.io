@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -14,5 +14,49 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "post"
+  - title: "Posts 🗃️"
     url: /posts/
+
+posts:
+  - title: Posts 🗃️
+    children:
+      - title: "iOS"
+        url: /posts/iOS
+      - title: "ProductManager"
+        url: /posts/ProductManager
+      - title: "codeit"
+        url: /posts/Codeit
+      - title: "Git"
+        url: /posts/git
+      - title: "SwiftGrammar"
+        url: /posts/SwiftGrammar
+      - title: "Blog"
+        url: /posts/Blog
+      - title: "Firebase"
+        url: /posts/Firebase
+      - title: "Planner"
+        url: /posts/Planner
+      - title: "Development"
+        url: /posts/Development
+
+pages:
+  - title: Posts 🗃️
+    children:
+      - title: "iOS"
+        url: /posts/iOS
+      - title: "ProductManager"
+        url: /posts/ProductManager
+      - title: "codeit"
+        url: /posts/Codeit
+      - title: "Git"
+        url: /posts/git
+      - title: "SwiftGrammar"
+        url: /posts/SwiftGrammar
+      - title: "Blog"
+        url: /posts/Blog
+      - title: "Firebase"
+        url: /posts/Firebase
+      - title: "Planner"
+        url: /posts/Planner
+      - title: "Development"
+        url: /posts/Development
