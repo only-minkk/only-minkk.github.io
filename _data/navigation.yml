@@ -20,7 +20,7 @@ main:
 posts:
   - title: Posts 🗃️
     children:
-      - title: "iOS"
+      # - title: "iOS"
       #   url: /posts/iOS
       # - title: "ProductManager"
       #   url: /posts/ProductManager
