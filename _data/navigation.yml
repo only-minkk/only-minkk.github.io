@@ -21,42 +21,42 @@ posts:
   - title: Posts 🗃️
     children:
       - title: "iOS"
-        url: /posts/iOS
-      - title: "ProductManager"
-        url: /posts/ProductManager
-      - title: "codeit"
-        url: /posts/Codeit
+      #   url: /posts/iOS
+      # - title: "ProductManager"
+      #   url: /posts/ProductManager
+      # - title: "codeit"
+      #   url: /posts/Codeit
       - title: "Git"
         url: /posts/git
-      - title: "SwiftGrammar"
-        url: /posts/SwiftGrammar
+      # - title: "SwiftGrammar"
+      #   url: /posts/SwiftGrammar
       - title: "Blog"
         url: /posts/Blog
-      - title: "Firebase"
-        url: /posts/Firebase
-      - title: "Planner"
-        url: /posts/Planner
-      - title: "Development"
-        url: /posts/Development
+      # - title: "Firebase"
+      #   url: /posts/Firebase
+      # - title: "Planner"
+      #   url: /posts/Planner
+      # - title: "Development"
+      #   url: /posts/Development
 
 pages:
   - title: Posts 🗃️
     children:
-      - title: "iOS"
-        url: /posts/iOS
-      - title: "ProductManager"
-        url: /posts/ProductManager
-      - title: "codeit"
-        url: /posts/Codeit
+      # - title: "iOS"
+      #   url: /posts/iOS
+      # - title: "ProductManager"
+      #   url: /posts/ProductManager
+      # - title: "codeit"
+      #   url: /posts/Codeit
       - title: "Git"
         url: /posts/git
-      - title: "SwiftGrammar"
-        url: /posts/SwiftGrammar
+      # - title: "SwiftGrammar"
+      #   url: /posts/SwiftGrammar
       - title: "Blog"
         url: /posts/Blog
-      - title: "Firebase"
-        url: /posts/Firebase
-      - title: "Planner"
-        url: /posts/Planner
-      - title: "Development"
-        url: /posts/Development
+      # - title: "Firebase"
+      #   url: /posts/Firebase
+      # - title: "Planner"
+      #   url: /posts/Planner
+      # - title: "Development"
+      #   url: /posts/Development
