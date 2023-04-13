@@ -16,7 +16,7 @@ main:
   #   url: /sitemap/
   - title: "Posts 🗃️"
     url: /posts/
-  - title: "Repo 🏢"
+  - title: "Repositories 🗄️"
     url: https://github.com/only-minkk
   - title: "Resume 🧑‍💻"
     url: /resume/
@@ -24,8 +24,8 @@ main:
 posts:
   - title: Posts 🗃️
     children:
-      # - title: "iOS"
-      #   url: /posts/iOS
+      - title: "Node.js"
+        url: /posts/Node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
@@ -46,8 +46,8 @@ posts:
 pages:
   - title: Posts 🗃️
     children:
-      # - title: "iOS"
-      #   url: /posts/iOS
+      - title: "Node.js"
+        url: /posts/Node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
