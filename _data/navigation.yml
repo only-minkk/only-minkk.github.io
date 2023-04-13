@@ -16,6 +16,10 @@ main:
   #   url: /sitemap/
   - title: "Posts 🗃️"
     url: /posts/
+  - title: "Repo 🏢"
+    url: https://github.com/only-minkk
+  - title: "Resume 🧑‍💻"
+    url: /resume/
 
 posts:
   - title: Posts 🗃️
