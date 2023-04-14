@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /posts/git
+permalink: /categories/git
 title: "Git 카테고리의 포스트"
 author_profile: true
 sidebar_main: true

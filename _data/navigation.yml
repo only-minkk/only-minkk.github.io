@@ -14,28 +14,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Posts 🗃️"
-    url: /posts/
+  - title: "Categories 🗃️"
+    url: /categories/
   - title: "Repositories 🗄️"
     url: https://github.com/only-minkk
   - title: "Resume 🧑‍💻"
     url: /resume/
 
 posts:
-  - title: Posts 🗃️
+  - title: Categories 🗃️
     children:
       - title: "Node.js"
-        url: /posts/node
+        url: /categories/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
       #   url: /posts/Codeit
       - title: "Git"
-        url: /posts/git
+        url: /categories/git
       # - title: "SwiftGrammar"
       #   url: /posts/SwiftGrammar
       - title: "Blog"
-        url: /posts/blog
+        url: /categories/blog
       # - title: "Firebase"
       #   url: /posts/Firebase
       # - title: "Planner"
@@ -47,17 +47,17 @@ pages:
   - title: Posts 🗃️
     children:
       - title: "Node.js"
-        url: /posts/node
+        url: /categories/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
       #   url: /posts/Codeit
       - title: "Git"
-        url: /posts/git
+        url: /categories/git
       # - title: "SwiftGrammar"
       #   url: /posts/SwiftGrammar
       - title: "Blog"
-        url: /posts/blog
+        url: /categories/blog
       # - title: "Firebase"
       #   url: /posts/Firebase
       # - title: "Planner"
