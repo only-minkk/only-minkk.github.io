@@ -1,6 +1,6 @@
 ---
 title: "Posts 🗃️"
-permalink: /posts/
 layout: posts
+permalink: /posts/
 author_profile: true
 ---
