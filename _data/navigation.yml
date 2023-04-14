@@ -47,7 +47,7 @@ pages:
   - title: Posts 🗃️
     children:
       - title: "Node.js"
-        url: /posts/Node
+        url: /posts/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
@@ -57,7 +57,7 @@ pages:
       # - title: "SwiftGrammar"
       #   url: /posts/SwiftGrammar
       - title: "Blog"
-        url: /posts/Blog
+        url: /posts/blog
       # - title: "Firebase"
       #   url: /posts/Firebase
       # - title: "Planner"
