@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /posts/git
-title: "git 카테고리의 포스트"
+title: "Git 카테고리의 포스트"
 author_profile: true
 sidebar_main: true
 search: false
