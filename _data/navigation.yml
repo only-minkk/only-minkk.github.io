@@ -25,7 +25,7 @@ posts:
   - title: Categories 🗃️
     children:
       - title: "Node.js"
-        url: /categories/node
+        url: /categories/node-js
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"

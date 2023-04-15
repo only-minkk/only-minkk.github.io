@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /categories/node
+permalink: /categories/node-js
 title: "Node.js 카테고리의 포스트"
 author_profile: true
 sidebar_main: true
