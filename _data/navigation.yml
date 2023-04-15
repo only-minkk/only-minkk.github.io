@@ -47,7 +47,7 @@ pages:
   - title: Posts 🗃️
     children:
       - title: "Node.js"
-        url: /categories/node-js
+        url: /categories/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
       # - title: "codeit"
