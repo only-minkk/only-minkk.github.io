@@ -44,7 +44,7 @@ posts:
       #   url: /posts/Development
 
 pages:
-  - title: Posts 🗃️
+  - title: Categories 🗃️
     children:
       - title: "Node.js"
         url: /categories/node
