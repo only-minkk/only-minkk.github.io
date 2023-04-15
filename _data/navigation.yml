@@ -24,7 +24,7 @@ main:
 posts:
   - title: Categories 🗃️
     children:
-      - title: "Node.js"
+      - title: "Node"
         url: /categories/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
@@ -46,7 +46,7 @@ posts:
 pages:
   - title: Categories 🗃️
     children:
-      - title: "Node.js"
+      - title: "Node"
         url: /categories/node
       # - title: "ProductManager"
       #   url: /posts/ProductManager
