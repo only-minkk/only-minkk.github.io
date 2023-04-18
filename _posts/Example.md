@@ -13,12 +13,12 @@ author_profile: # true # 이 포스트에 작성자 프로필을 표시할지 �
 read_time: # false # 이 포스트의 예상 읽기 시간을 표시할지 여부.
 share: # false # 이 포스트의 공유 버튼을 표시할지 여부.
 related: # true # 이 포스트와 관련된 포스트를 표시할지 여부
-header:#헤더의 이미지를 설정.
+header:
   # teaser: # 이 포스트의 티저 이미지를 설정.
-  # image: /assets/images/sakura.gif
-  # overlay_image: /assets/images/sakura.gif # 이포스트의 오버레이 이미지를 설정.
+  # image: /assets/images/sakura.gif # 헤더의 이미지를 설정.
+  # overlay_image: /assets/images/sakura.gif # 이 포스트의 헤더 이미지 위에 오버레이 이미지를 설정.
 #   overlay_image: /assets/images/circle_animation.gif
-# overlay_filter: 0.5 # 이 포스트의 오버레이 필터를 설정.
+# overlay_filter: 0.5 # 이 포스트의 오버레이 필터를 설정. (투명도)
 #   image_description: "A description of the image" # 이미지에 대한 설명을 설정.
 toc: # true # 오른쪽 부분에 목차를 자동 생성해준다.
 toc_label: # "목차" #"My Table of Contents" # 목차 이름(라벨) 설정
