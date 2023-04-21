@@ -293,7 +293,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: false
       comments: true
@@ -301,3 +301,22 @@ defaults:
       related: false
       sidebar:
         nav: "pages"
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: false
+  #     comments: true
+  #     share: true
+  #     related: false
+  #     sidebar:
+  #       nav: "pages"
+
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: splash
+  #     author_profile: true
