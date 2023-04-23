@@ -14,7 +14,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Categories 🗃️"
+  - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
@@ -23,7 +23,7 @@ main:
     # target: "_blank"
 
 posts:
-  - title: Categories 🗃️
+  - title: Categories <image src='/assets/images/categories.png' width='28px' height='28px'>
     children:
       - title: "Node"
         url: /categories/node
@@ -45,7 +45,7 @@ posts:
       #   url: /posts/Development
 
 pages:
-  - title: Categories 🗃️
+  - title: Categories <image src='/assets/images/categories.png' width='28px' height='28px'>
     children:
       - title: "Node"
         url: /categories/node
