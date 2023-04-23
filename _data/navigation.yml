@@ -23,7 +23,7 @@ main:
     # target: "_blank"
 
 posts:
-  - title: Categories
+  - title: Categories 🗃️
     children:
       - title: "Node"
         url: /categories/node
@@ -45,7 +45,7 @@ posts:
       #   url: /posts/Development
 
 pages:
-  - title: "<image src='/assets/images/categories.png' width='28px' height='28px'> Categories"
+  - title: Categories 🗃️
     children:
       - title: "Node"
         url: /categories/node
