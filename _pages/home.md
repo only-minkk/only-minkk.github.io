@@ -6,7 +6,7 @@ header:
   overlay_color:
   overlay_image: /assets/images/header.png
   actions:
-    - label: "<image src='/assets/images/enter.png' width='18px' height='18px'> Enter"
+    - label: "<image src='/assets/images/enter.png' width='22px' height='22px'> Enter"
       url: "/categories/"
 excerpt: >
   "Welcome to my little world!"<br />
