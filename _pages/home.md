@@ -5,21 +5,21 @@ hidden: true
 header:
   overlay_color:
   overlay_image: /assets/images/header.png
+  style: "background-color: #FF7A00;"
   actions:
     - label: "<image src='/assets/images/enter.png' width='24px' height='24px'> Enter"
       url: "/categories/"
-      style: "background-color: #FF7A00;"
 excerpt: >
   "Welcome to my little world!"<br />
   <small>A blog full of dreams and possibilities.</small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/repositories.png
+    alt: "Repositories"
+    title: "Repositories"
+    excerpt: "This is a private GitHub repository."
+    url: "https://github.com/only-minkk"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Enter ↩"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
