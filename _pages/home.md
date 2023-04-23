@@ -5,7 +5,6 @@ hidden: true
 header:
   overlay_color:
   overlay_image: /assets/images/header.png
-  style: "background-color: #FF7A00;"
   actions:
     - label: "<image src='/assets/images/enter.png' width='24px' height='24px'> Enter"
       url: "/categories/"
