@@ -8,6 +8,7 @@ header:
   actions:
     - label: "<image src='/assets/images/enter.png' width='24px' height='24px'> Enter"
       url: "/categories/"
+      style: "background-color: ##FF7A00;"
 excerpt: >
   "Welcome to my little world!"<br />
   <small>A blog full of dreams and possibilities.</small>
