@@ -23,7 +23,7 @@ main:
     # target: "_blank"
 
 posts:
-  - title: "<image src='/assets/images/categories.png' width='28px' height='28px'> Categories"
+  - title: Categories
     children:
       - title: "Node"
         url: /categories/node
