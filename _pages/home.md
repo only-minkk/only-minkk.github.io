@@ -13,6 +13,8 @@ excerpt: >
   <small>A blog full of dreams and possibilities.</small>
 feature_row:
   - image_path: /assets/images/categories.png
+    image_width: 200
+    image_height: 200
     alt: "Categories"
     title: "Categories"
     excerpt: "These are posts where my dreams and possibilities are gathered."
