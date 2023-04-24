@@ -18,7 +18,7 @@ main:
     url: /categories/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
-  - title: "Resume 🧑‍💻"
+  - title: "Resume <image src='/assets/images/resume.png' width='28px' height='28px'>"
     url: https://minkkk.notion.site/63b2a0037fe74a74a25cda95d8778a7d
     # target: "_blank"
 

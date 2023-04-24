@@ -26,13 +26,13 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/resume.png
+    alt: "Resume"
+    title: "Resume"
+    excerpt: "This is my resume organized in notion."
+    url: "https://minkkk.notion.site/63b2a0037fe74a74a25cda95d8778a7d"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Enter ↩"
 ---
 
 {% include feature_row %}
