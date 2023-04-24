@@ -26,9 +26,7 @@ post.id %} {% assign title = post.title | markdownify | remove: "
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% include page__meta.html type=include.type %} {% if post.date %}
-    <p class="archive__item-date">{{ post.date | date: "%B %-d, %Y" }}</p>
-    {% endif %} {% if post.excerpt %}
+    {% include page__meta.html type=include.type %}
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
     </p>
