@@ -12,6 +12,13 @@ excerpt: >
   "Welcome to my little world!"<br />
   <small>A blog full of dreams and possibilities.</small>
 feature_row:
+  - image_path: /assets/images/categories.png
+    alt: "Categories"
+    title: "Categories"
+    excerpt: "These are posts where my dreams and possibilities are gathered."
+    url: "/categories/"
+    btn_class: "btn--primary"
+    btn_label: "Enter ↩"
   - image_path: /assets/images/repositories.png
     alt: "Repositories"
     title: "Repositories"
@@ -19,13 +26,6 @@ feature_row:
     url: "https://github.com/only-minkk"
     btn_class: "btn--primary"
     btn_label: "Enter ↩"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/resume.png
     alt: "Resume"
     title: "Resume"
