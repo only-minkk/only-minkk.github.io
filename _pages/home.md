@@ -12,21 +12,21 @@ excerpt: >
   "Welcome to my little world!"<br />
   <small>A blog full of dreams and possibilities.</small>
 feature_row:
-  - image_path: /assets/images/11.png
+  - image_path: /assets/images/categories.png
     alt: "Categories"
     title: "Categories"
     excerpt: "These are posts where my dreams and possibilities are gathered."
     url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Enter ↩"
-  - image_path: /assets/images/22.png
+  - image_path: /assets/images/repositories.png
     alt: "Repositories"
     title: "Repositories"
     excerpt: "This is a private GitHub repository."
     url: "https://github.com/only-minkk"
     btn_class: "btn--primary"
     btn_label: "Enter ↩"
-  - image_path: /assets/images/33.png
+  - image_path: /assets/images/resume.png
     alt: "Resume"
     title: "Resume"
     excerpt: "This is my resume organized in notion."
