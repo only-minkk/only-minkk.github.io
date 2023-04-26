@@ -16,8 +16,8 @@ main:
   #   url: /sitemap/
   - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
-  - title: "Quick-Start Guide"
-    url: https://only-minkk.github.io/docs/quick-start-guide/
+  - title: "Education"
+    url: https://only-minkk.github.io/docs/education/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
   - title: "Resume <image src='/assets/images/resume.png' width='28px' height='28px'>"
