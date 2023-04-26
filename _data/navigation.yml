@@ -1,23 +1,9 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Category"
-  #   url: /category/
-  # - title: "Posts By Tag"
-  #   url: /PostsByTag/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
-  - title: "Education"
-    url: https://only-minkk.github.io/docs/education/
+  - title: "Note"
+    url: /docs/note/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
   - title: "Resume <image src='/assets/images/resume.png' width='28px' height='28px'>"
@@ -29,92 +15,27 @@ posts:
     children:
       - title: "Node"
         url: /categories/node
-      # - title: "ProductManager"
-      #   url: /posts/ProductManager
-      # - title: "codeit"
-      #   url: /posts/Codeit
       - title: "Git"
         url: /categories/git
-      # - title: "SwiftGrammar"
-      #   url: /posts/SwiftGrammar
       - title: "Blog"
         url: /categories/blog
-      # - title: "Firebase"
-      #   url: /posts/Firebase
-      # - title: "Planner"
-      #   url: /posts/Planner
-      # - title: "Development"
-      #   url: /posts/Development
 
 pages:
   - title: Categories
     children:
       - title: "Node"
         url: /categories/node
-      # - title: "ProductManager"
-      #   url: /posts/ProductManager
-      # - title: "codeit"
-      #   url: /posts/Codeit
       - title: "Git"
         url: /categories/git
-      # - title: "SwiftGrammar"
-      #   url: /posts/SwiftGrammar
       - title: "Blog"
         url: /categories/blog
-      # - title: "Firebase"
-      #   url: /posts/Firebase
-      # - title: "Planner"
-      #   url: /posts/Planner
-      # - title: "Development"
-      #   url: /posts/Development
 
 docs:
-  - title: 교육
+  - title: Note
     children:
-      - title: "Education"
-        url: "https://only-minkk.github.io/docs/education/"
+      - title: "What is a Note?"
+        url: /docs/note/
   - title: Node.js 교과서
     children:
-      - title: "1장"
-        url: "https://only-minkk.github.io/docs/node1/"
-# sidebar-sample:
-#   - title: "Parent Page A"
-#     children:
-#       - title: "Child Page A1"
-#         url: /
-#       - title: "Child Page A2"
-#         url: /
-#       - title: "Child Page A3"
-#         url: /
-#       - title: "Child Page A4"
-#         url: /
-#   - title: "Parent Page B"
-#     children:
-#       - title: "Child Page B1"
-#         url: /
-#       - title: "Child Page B2"
-#         url: /
-#       - title: "Child Page B3"
-#         url: /
-#       - title: "Child Page B4"
-#         url: /
-#       - title: "Child Page B5"
-#         url: /
-#   - title: "Parent Page C"
-#     children:
-#       - title: "Child Page C1"
-#         url: /
-#       - title: "Child Page C2"
-#         url: /
-#       - title: "Child Page C3"
-#         url: /
-#       - title: "Child Page C4"
-#         url: /
-#       - title: "Child Page C5"
-#         url: /
-#   - title: "Parent Page D"
-#     children:
-#       - title: "Child Page D1"
-#         url: /
-#       - title: "Child Page D2"
-#         url: /
+      - title: "Node.js 교과서 1장"
+        url: /docs/node1/
