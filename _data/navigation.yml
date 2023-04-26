@@ -17,7 +17,7 @@ main:
   - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
   - title: "Education <image src='/assets/images/categories.png' width='28px' height='28px'>"
-    url: /docs/education/
+    url: "https://only-minkk.github.io/docs/education/"
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
   - title: "Resume <image src='/assets/images/resume.png' width='28px' height='28px'>"
@@ -72,11 +72,11 @@ docs:
   - title: 교육
     children:
       - title: "Education"
-        url: /docs/education/
+        url: "https://only-minkk.github.io/docs/education/"
   - title: Node.js 교과서
     children:
       - title: "1장"
-        url: /docs/node1/
+        url: "https://only-minkk.github.io/docs/node1/"
 
 sidebar-sample:
   - title: "Parent Page A"
