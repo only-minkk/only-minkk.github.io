@@ -69,6 +69,10 @@ pages:
       #   url: /posts/Development
 
 docs:
+  - title: Education
+    children:
+      - title: Education
+        url: /docs/education/
   - title: Node.js 교과서
     children:
       - title: "1장"
