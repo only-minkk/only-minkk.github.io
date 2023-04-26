@@ -16,6 +16,8 @@ main:
   #   url: /sitemap/
   - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
+  - title: "Education <image src='/assets/images/categories.png' width='28px' height='28px'>"
+    url: /education/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
   - title: "Resume <image src='/assets/images/resume.png' width='28px' height='28px'>"
@@ -65,3 +67,9 @@ pages:
       #   url: /posts/Planner
       # - title: "Development"
       #   url: /posts/Development
+
+docs:
+  - title: Node.js 교과서
+    children:
+      - title: "1장"
+        url: /education/node1
