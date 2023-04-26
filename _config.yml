@@ -275,7 +275,7 @@ compress_html:
 collections:
   docs:
     output: true
-    permalink: /:collection/:path/
+    permalink: /docs/:title/
 
 # Defaults
 defaults:
