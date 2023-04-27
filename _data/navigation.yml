@@ -2,7 +2,7 @@
 main:
   - title: "Categories <image src='/assets/images/categories.png' width='28px' height='28px'>"
     url: /categories/
-  - title: "Note"
+  - title: "Note <image src='/assets/images/note.png'>"
     url: /docs/note/
   - title: "Repositories <image src='/assets/images/repositories.png' width='28px' height='28px'>"
     url: https://github.com/only-minkk
