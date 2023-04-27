@@ -12,11 +12,18 @@ excerpt: >
   "Welcome to my little world!"<br />
   <small>A blog full of dreams and possibilities.</small>
 feature_row:
-  - image_path: /assets/images/categories.png
-    alt: "Categories"
-    title: "Categories"
-    excerpt: "These are posts where my dreams and possibilities are gathered."
-    url: "/categories/"
+  # - image_path: /assets/images/categories.png
+  #   alt: "Categories"
+  #   title: "Categories"
+  #   excerpt: "These are posts where my dreams and possibilities are gathered."
+  #   url: "/categories/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Enter ↩"
+  - image_path: /assets/images/note.png
+    alt: "Note"
+    title: "Note"
+    excerpt: "Note page is a space to record my learning!"
+    url: "/docs/note/"
     btn_class: "btn--primary"
     btn_label: "Enter ↩"
   - image_path: /assets/images/repositories.png
