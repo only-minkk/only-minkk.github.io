@@ -210,6 +210,57 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /docs/:title/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      show_date: true
+      comments: true
+      share: false
+      related: true
+      sidebar:
+        nav: "posts"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      show_date: true
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "pages"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      show_date: true
+      share: false
+      toc: true
+      comments: false
+      sidebar:
+        nav: "docs"
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -271,55 +322,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-collections:
-  docs:
-    output: true
-    permalink: /docs/:title/
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      show_date: true
-      comments: true
-      share: false
-      related: true
-      sidebar:
-        nav: "posts"
-
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      show_date: true
-      comments: true
-      share: true
-      related: false
-      sidebar:
-        nav: "pages"
-
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      show_date: true
-      share: false
-      toc: true
-      comments: false
-      sidebar:
-        nav: "docs"
