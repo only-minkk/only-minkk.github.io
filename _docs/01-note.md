@@ -2,8 +2,6 @@
 title: "What is a Note?"
 permalink: /docs/note/
 excerpt: "Describe the note page."
-layout: collection
-collection: docs
 last_modified_at: 2023-04-27
 redirect_from:
   - /theme-setup/
