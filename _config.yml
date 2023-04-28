@@ -257,6 +257,7 @@ defaults:
       show_date: true
       share: false
       toc: true
+      show_sidebar: true
       comments: false
       sidebar:
         nav: "docs"
