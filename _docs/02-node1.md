@@ -42,19 +42,15 @@ toc_sticky: true
     - V8 엔진 : 오픈 소스 자바스크립트 엔진 -> 속도 문제 개선
     - libuv : 노드의 특성인 이벤트 기반, 논블룅 I/O 모델을 구현한 라이브러리
 
-           ```
-
-      ## collection Node.js Core Library
-
-      ## Node.js Bindings
-
-      V8 **libuv**
-      ↓ ↓
-      오픈 소스 비동기I/O
-      자바스크립트 엔진
-
       ```
-
+                   Node.js Core Library
+                   --------------------
+                     Node.js Bindings
+                   -------------------
+                     V8          **libuv**
+                     ↓              ↓
+                 오픈 소스        비동기I/O
+             자바스크립트 엔진
       ```
 
 ## 1.2 노드의 특성
