@@ -9,6 +9,7 @@ toc: true
 toc_label: "목차" #"My Table of Contents" # toc 이름 설정
 toc_icon: "fa fa-list" # 아이콘 설정
 toc_sticky: true
+show_sidebar: true
 ---
 
 # 1강
