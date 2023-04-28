@@ -319,6 +319,7 @@ defaults:
       author_profile: false
       show_date: true
       share: false
+      toc: true
       comments: false
       sidebar:
         nav: "docs"
